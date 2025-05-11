@@ -1,6 +1,6 @@
 # Draggable Cards – React + Vite
 
-![cards](favicon.png)
+![preview of Cards](Cards.gif)
 
 https://gherghett.github.io/Draggable-Cards---React-Vite/
 
@@ -19,7 +19,7 @@ Originally, this project was meant to help me learn **React** and try out **Vite
   - **Z-index stacking**, so the most recently picked-up card appears on top
 - Background images and some text are AI-generated.
 
-![preview of Cards](Cards.gif)
+![alt text](Card-Vite/public/favicon.png)
 
 ---
 
