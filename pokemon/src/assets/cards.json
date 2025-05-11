@@ -1,0 +1,317 @@
+[{
+  "title": "Your Favorite Lamp",
+  "hp": "40",
+  "bgColor": "card-yellow",
+  "image": "lamp.png",
+  "attacks": [
+    {
+      "title": "Warm Glow",
+      "description": "Heals allies for a soft, comforting amount.",
+      "glyphs": [
+        { "glyph": "✺", "color": "orange" },
+        { "glyph": "♡", "color": "pink" }
+      ],
+      "damage": "-15"
+    },
+    {
+      "title": "Buzzing Hum",
+      "description": "An irritating drone that slowly drains enemy focus.",
+      "glyphs": [
+        { "glyph": "≈", "color": "gray" },
+        { "glyph": "♒", "color": "yellow" }
+      ],
+      "damage": "10"
+    },
+    {
+      "title": "Shatter",
+      "description": "Desperate final attack. Breaks self. High risk, high damage.",
+      "glyphs": [
+        { "glyph": "✦", "color": "white" },
+        { "glyph": "☠", "color": "red" }
+      ],
+      "damage": "50"
+    }
+  ]
+},
+{
+  "title": "Flower",
+  "hp": "50",
+  "bgColor": "card-purple",
+  "image": "flower.png",
+  "attacks": [
+    {
+      "title": "Petal Gearbox",
+      "description": "Flowers need water.",
+      "glyphs": [
+        { "glyph": "✿", "color": "pink" },
+        { "glyph": "〰", "color": "white" },
+        { "glyph": "❍", "color": "lavender" }
+      ],
+      "damage": "0  "
+    }
+  ]
+},
+{
+  "title": "YouTube Slop",
+  "hp": "65",
+  "bgColor": "card-red",
+  "image": "youtube.png",
+  "attacks": [
+    {
+      "title": "Long Intro",
+      "description": "Wastes time, but impresses casual viewers.",
+      "glyphs": [
+        { "glyph": "🎬", "color": "purple" },
+        { "glyph": "⧖", "color": "gray" },
+        { "glyph": "%", "color": "gray" }
+      ],
+      "damage": "5"
+    },
+    {
+      "title": "Science!",
+      "description": "Buries target in 90 minutes",
+      "glyphs": [
+        { "glyph": "📚", "color": "blue" },
+        { "glyph": "💥", "color": "red" }
+      ],
+      "damage": "30"
+    },
+    {
+      "title": "Patreon Plug",
+      "description": "Regenerates HP.",
+      "glyphs": [
+        { "glyph": "💸", "color": "gold" },
+        { "glyph": "😑", "color": "gray" }
+      ],
+      "damage": "-20"
+    }
+  ]
+},
+{
+  "title": "Earphones on Floor of Bus",
+  "hp": "35",
+  "bgColor": "card-brown",
+  "image": "airpods.png",
+  "attacks": [
+    {
+      "title": "No Music",
+      "description": "Someone's missing them... ",
+      "glyphs": [
+        { "glyph": "🔇", "color": "blue" },
+        { "glyph": "💔", "color": "red" }
+      ],
+      "damage": "10"
+    },
+    {
+      "title": "Ear Gunk",
+      "description": "Ew. Covers enemy in mysterious sticky residue.",
+      "glyphs": [
+        { "glyph": "☣", "color": "green" },
+        { "glyph": "💦", "color": "brown" }
+      ],
+      "damage": "15"
+    }
+  ]
+},
+  {
+    "title": "Big Cat",
+    "hp": "65",
+    "bgColor": "card-yellow",
+    "image": "cat.png",
+    "attacks": [
+      {
+        "title": "Sleepy Slap",
+        "description": "Take 1 damage per minute you napped this week.",
+        "glyphs": [
+          { "glyph": "X", "color": "white" }
+        ],
+        "damage": "0-?"
+      },
+      {
+        "title": "Strainge Smell",
+        "description": "Is it that new food we started giving her?",
+        "glyphs": [
+          { "glyph": "∿", "color": "green" },
+          { "glyph": "⧖", "color": "red" }
+        ],
+        "damage": "20"
+      }
+    ]
+  },
+  {
+    "title": "Laser Dog",
+    "hp": "80",
+    "bgColor": "card-blue",
+    "image": "dog.png",
+    "attacks": [
+      {
+        "title": "Bark Beam",
+        "description": "Pierces enemy defenses.",
+        "glyphs": [
+          { "glyph": "⚡", "color": "blue" }
+        ],
+        "damage": "30"
+      }
+    ]
+  },
+  {
+  "title": "Borås",
+  "hp": "60",
+  "bgColor": "card-gray",
+  "image": "boras.png",
+  "attacks": [
+    {
+      "title": "Rain",
+      "description": "Endless drizzle dampens enemy morale.",
+      "glyphs": [
+        { "glyph": "☔", "color": "blue" }
+      ],
+      "damage": "15"
+    },
+    {
+      "title": "Occult Underbelly",
+      "description": "Unleash the hidden mysteries.",
+      "glyphs": [
+        { "glyph": "◉", "color": "black" },
+        { "glyph": "✦", "color": "purple" }
+      ],
+      "damage": "35"
+    }
+  ]
+},
+{
+  "title": "Arch Linux",
+  "hp": "50",
+  "bgColor": "card-black",
+  "image": "arch.png",
+  "attacks": [
+    {
+      "title": "Customize",
+      "description": "Spend hours configuring — ",
+      "glyphs": [
+        { "glyph": "⌨", "color": "white" },
+        { "glyph": "⚙", "color": "gray" },
+        { "glyph": "x", "color": "gray" }
+
+      ],
+      "damage": "50"
+    },
+    {
+      "title": "BTW",
+      "description": "Stuns the opponent with unsolicited info.",
+      "glyphs": [
+        { "glyph": "✉", "color": "blue" },
+        { "glyph": "!", "color": "red" }
+      ],
+      "damage": "10"
+    }
+  ]
+},
+{
+  "title": "VSCode",
+  "hp": "55",
+  "bgColor": "card-blue",
+  "image": "vscode.png",
+  "attacks": [
+    {
+      "title": "Easy Setup",
+      "description": "Instantly deploys helpful extensions and themes.",
+      "glyphs": [
+        { "glyph": "⇪", "color": "green" },
+        { "glyph": "📦", "color": "blue" }
+      ],
+      "damage": "20"
+    },
+    {
+      "title": "Microsoft Backdoor",
+      "description": "You didn't read the fine print... .",
+      "glyphs": [
+        { "glyph": "🛡", "color": "red" },
+        { "glyph": "&", "color": "red" },
+        { "glyph": "☁", "color": "gray" }
+      ],
+      "damage": "25"
+    },
+    {
+      "title": "VIM extention",
+      "description": "sdfg hjkl",
+      "glyphs": [
+        { "glyph": "&", "color": "red" }
+      ],
+      "damage": "15"
+    }
+  ]
+},
+{
+  "title": "Balatro (Mobile)",
+  "hp": "60",
+  "bgColor": "card-purple",
+  "image": "balatro.png",
+  "attacks": [
+    {
+      "title": "Number Go Up",
+      "description": "Serotonin - hacked",
+      "glyphs": [
+        { "glyph": "🂡", "color": "gold" },
+        { "glyph": "↑", "color": "green" }
+      ],
+      "damage": "??"
+    },
+    {
+      "title": "Creepy Clown",
+      "description": "Strangely compelling",
+      "glyphs": [
+        { "glyph": "🤡", "color": "red" },
+        { "glyph": "👁", "color": "black" },
+        { "glyph": "👁", "color": "black" }
+      ],
+      "damage": "25 "
+    }
+  ]
+},
+{
+  "title": "Revenge",
+  "hp": "45",
+  "bgColor": "card-black",
+  "image": "revenge.png",
+  "attacks": [
+    {
+      "title": "Long Memory",
+      "description": "Keeps track of every slight.",
+      "glyphs": [
+        { "glyph": "⌛", "color": "gray" },
+        { "glyph": "✖", "color": "red" }
+      ],
+      "damage": "5"
+    },
+    {
+      "title": "Cold Strike",
+      "description": "Unfeeling. Precise. Unavoidable.",
+      "glyphs": [
+        { "glyph": "🗡", "color": "white" },
+        { "glyph": "❄", "color": "blue" }
+      ],
+      "damage": "30"
+    }
+  ]
+},
+{
+  "title": "Coffee",
+  "hp": "55",
+  "bgColor": "card-dark",
+  "image": "coffee.png",
+  "attacks": [
+    {
+      "title": "First Light",
+      "description": "Fate settles into its seat.",
+      "glyphs": [
+        { "glyph": "☕", "color": "brown" },
+        { "glyph": "…", "color": "black" },
+        { "glyph": "⚔", "color": "gray" }
+      ],
+      "damage": "20"
+    }
+  ]
+}
+
+]
