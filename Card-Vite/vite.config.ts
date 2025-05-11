@@ -1,7 +1,10 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
 
-// https://vite.dev/config/
+// Set base depending on deploy mode
+const isDeployToGitHubPages = process.env.GHPAGES === 'true';
+
 export default defineConfig({
+  base: isDeployToGitHubPages ? '/Card-Vite/' : '/',
   plugins: [react()],
-})
+});

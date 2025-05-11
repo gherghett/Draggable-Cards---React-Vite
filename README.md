@@ -60,7 +60,11 @@ This approach is more like vanilla JS — but it fits the problem.
 ## 🧪 To Try It
 
 ```bash
+clone https://github.com/gherghett/Draggable-Cards---React-Vite
+cd Draggable-Cards---React-Vite
+cd Card-Vite
+
 npm install
-npm run dev
+npx vite dev
 
 
