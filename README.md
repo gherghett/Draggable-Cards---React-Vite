@@ -2,6 +2,8 @@
 
 ![cards](favicon.png)
 
+https://gherghett.github.io/Draggable-Cards---React-Vite/
+
 UI demo of draggable, animated cards — inspired by games like Pokémon or Magic: The Gathering.
 
 Originally, this project was meant to help me learn **React** and try out **Vite** (first time using it). I quickly realized that this kind of per-frame DOM manipulation doesn’t naturally fit with how React handles state and rendering — but I made it work, and learned a lot in the process.
@@ -59,6 +61,10 @@ This approach is more like vanilla JS — but it fits the problem.
 
 ## 🧪 To Try It
 
+See the demo:
+https://gherghett.github.io/Draggable-Cards---React-Vite/
+
+install it yourself:
 ```bash
 clone https://github.com/gherghett/Draggable-Cards---React-Vite
 cd Draggable-Cards---React-Vite
